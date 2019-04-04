@@ -11,7 +11,7 @@ composer:
 composer require long/cache
 ```
 
-PHP 7.0 or newer.
+PHP 7.1 or newer.
 
 用例
 -----
